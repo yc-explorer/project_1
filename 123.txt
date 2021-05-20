@@ -1,2 +1,1 @@
-abc
-ABC
+print("Hello World!")
